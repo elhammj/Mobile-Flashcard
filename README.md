@@ -27,7 +27,7 @@ Each Deck in the list can be viewed as shown:
 <img src="images/DeckView.png" width="40%">
 
 User can take quizzes on the decks. 
-The quick can be restarted at anytime. 
+The quiz can be restarted anytime! 
 
 <img src="images/Quiz.png" width="40%">
 
