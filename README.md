@@ -13,17 +13,22 @@ This project is for "Udacity React Nano-degree"
 
 The screen has two tabs: List of Decks and Add a New Deck
 It starts with Hi Message!
+
 <img src="images/Hi.png" width="40%">
+
 <img src="images/AddDeck.png" width="40%">
 
 The user can create number of cards under each deck
+
 <img src="images/AddCard.png" width="40%">
 
 Each Deck in the list can be viewed as shown: 
+
 <img src="images/DeckView.png" width="40%">
 
 User can take quizzes on the decks. 
 The quick can be restarted at anytime. 
+
 <img src="images/Quiz.png" width="40%">
 
 Hope you enjoy using my flashcards App.  
